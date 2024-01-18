@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         NWR_eRev2
-// @version      1.0.9
+// @version      1.1.0
 // @description  Automated energy refill Automated fight. Collect pirates. This is AFK script. Use it at your own risk.
 // @include      http://*.erev2.com*
 // @include      https://*.erev2.com*
