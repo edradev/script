@@ -159,7 +159,7 @@ function rkills() {
 }
 
 function RandomReload() {
-    var rreload = Math.floor((Math.random() * 4) + 2);
+    var rreload = Math.floor((Math.random() * 7) + 2);
     GM_setValue("RandomReload", rreload);
 }
 
