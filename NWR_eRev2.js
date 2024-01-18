@@ -5,8 +5,8 @@
 // @include      http://*.erev2.com*
 // @include      https://*.erev2.com*
 // @copyright    WhIsKyMaN idea, maintained by eradev
-// @downloadURL  https://github02.private.domain/raw/github-username/repo-name/master/userscript.js
-// @updateURL    https://github02.private.domain/raw/github-username/repo-name/master/userscript.js
+// @downloadURL  https://github.com/edradev/script/blob/main/NWR_eRev2.js
+// @updateURL    https://github.com/edradev/script/blob/main/NWR_eRev2.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
